@@ -678,4 +678,133 @@
   <data name="Page_Home_Install_NS_METHOD_GitHubRateLimitForDownloadTriesHasBeenExceededError403FromRemoteServerPleaseWait" xml:space="preserve">
     <value>il Rate limit dei download di GitHub è stato superato. errore 403 dal server remoto. Per favore attendere</value>
   </data>
+  <data name="MODSIZEONDISK" xml:space="preserve">
+    <value>SPAZIO MOD SUL DISCO</value>
+  </data>
+  <data name="VERSION" xml:space="preserve">
+    <value>VERSIONE</value>
+  </data>
+  <data name="PATH" xml:space="preserve">
+    <value>PERCORSO</value>
+  </data>
+  <data name="MODINFO" xml:space="preserve">
+    <value>INFORMAZIONI MOD</value>
+  </data>
+  <data name="REQUIRES" xml:space="preserve">
+    <value>RICHIEDE - </value>
+  </data>
+  <data name="HasBeenDeleted" xml:space="preserve">
+    <value> è stato Rimosso</value>
+  </data>
+  <data name="CouldNotBeDeleted" xml:space="preserve">
+    <value> Non è stato possibile Eliminare</value>
+  </data>
+  <data name="TheModAt" xml:space="preserve">
+    <value>La Mod a </value>
+  </data>
+  <data name="ERROR" xml:space="preserve">
+    <value> ERRORE</value>
+  </data>
+  <data name="SUCCESS" xml:space="preserve">
+    <value>RIUSCITO</value>
+  </data>
+  <data name="CAUTION" xml:space="preserve">
+    <value>ATTENZIONE</value>
+  </data>
+  <data name="DESCRIPTION" xml:space="preserve">
+    <value>DESCRIZIONE</value>
+  </data>
+  <data name="DEPENDENCYLIST" xml:space="preserve">
+    <value>LISTA DIPENDENZE</value>
+  </data>
+  <data name="MODNAME" xml:space="preserve">
+    <value>NOME MOD</value>
+  </data>
+  <data name="NAME" xml:space="preserve">
+    <value>NOME</value>
+  </data>
+  <data name="MANIFESTFILENOTFOUND" xml:space="preserve">
+    <value>FILE DI MANIFEST MANCANTE</value>
+  </data>
+  <data name="MANIFESTFILENOTFOUND_" xml:space="preserve">
+    <value>FILE DI MANIFEST MANCANTE </value>
+  </data>
+  <data name="MANIFEST_FILE_NOT_FOUND" xml:space="preserve">
+    <value>FILE DI MANIFEST MANCANTE</value>
+  </data>
+  <data name="WARNING" xml:space="preserve">
+    <value> "ATTENZIONE</value>
+  </data>
+  <data name="TheModIsNotRegisteredProperlyInTheBackendListPleaseFixTheM2odFormattingOrUpdateYourTF2ModList__" xml:space="preserve">
+    <value>La Mod non è stata Registrata Correttamente nella Lista Backend, Vi preghiamo di Sistemare la formattazione M2od o di aggiornare la lista Mod di TF2";</value>
+  </data>
+  <data name="TheModIsNotRegisteredProperlyInTheBackendListPleaseFixTheM2odFormattingOrUpdateYourTF2ModList" xml:space="preserve">
+    <value>La Mod non è stata Registrata Correttamente nella Lista Backend, Vi preghiamo di Sistemare la formattazione M2od o di aggiornare la lista Mod di TF2</value>
+  </data>
+  <data name="TheModIsNotRegisteredProperlyInTheBackendListPleaseFixTheM2odFormattingOrUpdateYourTF2ModList_" xml:space="preserve">
+    <value>La Mod non è stata Registrata Correttamente nella Lista Backend, Vi preghiamo di Sistemare la formattazione M2od o di aggiornare la lista Mod di TF2</value>
+  </data>
+  <data name="ThunderstoreModCount" xml:space="preserve">
+    <value>Numero Mod Thunderstore</value>
+  </data>
+  <data name="ModUpdatesAvailable" xml:space="preserve">
+    <value>Aggiornamenti Mod Disponibili - </value>
+  </data>
+  <data name="APPLICATIONUPDATEISAVAILABLE" xml:space="preserve">
+    <value>AGGIORNAMENTO APPLICAZIONE DISPONIBILE</value>
+  </data>
+  <data name="UpdateAvailablePleaseCheckAndDownloadTheLatestRelease" xml:space="preserve">
+    <value>Aggiornamento Disponibile!, Vi preghiamo di Controllare e Scaricare L'Ultima release.</value>
+  </data>
+  <data name="INFO" xml:space="preserve">
+    <value>INFORMAZIONI</value>
+  </data>
+  <data name="VTOLRESTARTINGINADMINMODE" xml:space="preserve">
+    <value>RIAVVIANDO VTOL COME AMMINISTRATORE</value>
+  </data>
+  <data name="VTOLSYSTEMSFAILEDTOFINDYOURAPPDATAFOLDERLOCATEASAVEDATAFOLDER" xml:space="preserve">
+    <value>I SISTEMI VTOL NON SONO RIUSCITI A TROVARE LA TUA CARTELLA APPDATA, TROVA UNA CARTELLA DEI DATI DI SALVATAGGIO</value>
+  </data>
+  <data name="RESTARTINGTOSETHARDVALUES" xml:space="preserve">
+    <value>RIAVVIANDO PER IMPOSTARE VALORI IMPORTANTI</value>
+  </data>
+  <data name="CouldNotReadUserSettingsPleaseRunAsAdminOrRepairCleanYourInstallation" xml:space="preserve">
+    <value>Non è stato possibile leggere le Impostazioni Utente, Vi preghiamo di Riavviare come Amministratore o Riparare/Pulire l'Installazione</value>
+  </data>
+  <data name="DELETEMOD" xml:space="preserve">
+    <value>RIMUOVI MOD</value>
+  </data>
+  <data name="AreYouSureYouWantToDeleteTheMod" xml:space="preserve">
+    <value>Sei Sicuro Di Voler Eliminare La Mod - </value>
+  </data>
+  <data name="Permanently" xml:space="preserve">
+    <value>Permanentemente?</value>
+  </data>
+  <data name="TheModInformationFileCannotBeAccessedOrFound" xml:space="preserve">
+    <value>Il File Informazioni della Mod non può essere aperto o trovato!</value>
+  </data>
+  <data name="DownloadWithTheSameURLIsWasAlreadyInProgressOrQueued" xml:space="preserve">
+    <value>Un download con lo stesso URL è già in corso o in lista d'attesa.</value>
+  </data>
+  <data name="DownloadingFromThunderStore" xml:space="preserve">
+    <value>Scaricando Da ThunderStore</value>
+  </data>
+  <data name="HasNotBeenInstalledOnYourDevice" xml:space="preserve">
+    <value> non è stato installato sul tuo dispositivo.</value>
+  </data>
+  <data name="PleaseChooseToInstallThisPluginOntoYourDevice" xml:space="preserve">
+    <value>Scegli di Installare questo Plugin sul tuo dispositivo.</value>
+  </data>
+  <data name="DoBeWarnedThatPluginsCanAffectYourDeviceIn" xml:space="preserve">
+    <value>Vi informiamo che i plugin possono influenzare il tuo dispositivo in,</value>
+  </data>
+  <data name="UnintendedWays" xml:space="preserve">
+    <value>modi strani. </value>
+  </data>
+  <data name="PLUGINDETECTED" xml:space="preserve">
+    <value>PLUGIN RILEVATO</value>
+  </data>
+  <data name="CANCELLEDPERMISSIONS" xml:space="preserve">
+    <value>PERMESSI RIMOSSI</value>
+  </data>
 </root>
